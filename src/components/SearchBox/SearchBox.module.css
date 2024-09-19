@@ -1,0 +1,17 @@
+.content {
+  margin-top: 8px;
+}
+
+.content input {
+  margin-top: 6px;
+  padding: 4px;
+  width: 300px;
+  border: 1px solid black;
+  border-radius: 4px;
+  outline: none;
+}
+
+.content input:hover,
+.content input:focus{
+  border-color: #646cff;
+}
